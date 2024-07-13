@@ -24,10 +24,6 @@ This Android application is built using Jetpack Compose, following the MVI (Mode
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
 
-## Getting Started
-
-- Make sure to configure your API endpoints in `NetworkModule.kt`.
-- Replace API keys and secrets in a secure manner, following best practices.
 
 ## Contributing
 

@@ -20,7 +20,7 @@ This Android application is built using Jetpack Compose, following the MVI (Mode
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/compose-task-app.git`
+1. Clone the repository: `git clone https://github.com/Bilal512/ComposeTask.git`
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
 
